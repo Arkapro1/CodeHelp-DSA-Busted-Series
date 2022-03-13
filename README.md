@@ -1,5 +1,5 @@
 # CodeHelp-DSA-Busted-Series
-Hello Jee, ok I'm ark this repo is forked from love's repo
+Hello Jee, ok I'm ark 🏌️‍♂️ this repo is forked from love's repo
 
 This repo is for the students for easy access to all the programs taught under Codehelp's DSA Busted Series.
 
