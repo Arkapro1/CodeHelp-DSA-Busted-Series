@@ -21,6 +21,7 @@ public class Pattern16 {
         int n = sc.nextInt();
         pattern(n);
     }
+//Nothing
     static void pattern(int n){
         // Procedure to print the Required Pattern
 
